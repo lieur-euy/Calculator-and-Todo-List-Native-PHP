@@ -46,6 +46,6 @@ http://localhost/todolist/
 ```
 9. Have fun !! :)
 
-### Screan Shoot
+## Screenshot
 ![Screenshot 2024-03-14 225055](https://github.com/lieur-euy/Calculator-and-Todo-List-Native-PHP/assets/57533243/2d85f891-a3d6-4157-9233-2c860041d6d3)
 ![Screenshot 2024-03-14 224733](https://github.com/lieur-euy/Calculator-and-Todo-List-Native-PHP/assets/57533243/724c8d22-b261-4459-acdd-a6d5f245fada)
