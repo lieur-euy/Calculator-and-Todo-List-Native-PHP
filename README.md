@@ -12,4 +12,18 @@ go to programiz.com and Copy Paste Code
 ```
  https://www.programiz.com/php/online-compiler/
 ```
-## Todo-List
+## Todo-List CURD Soal 2
+### How to Run app
+1. Install XAMPP
+2. Clone Repository to C:\xampp\htdocs
+```
+git clone https://github.com/lieur-euy/Calculator-and-Todo-List-Native-PHP
+```
+terminal
+```
+cd todolist 
+```
+go to browser
+```
+[cd todolist ](http://localhost/todolist/)http://localhost/todolist/
+```
