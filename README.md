@@ -49,7 +49,15 @@ http://localhost/todolist/
 
 ## Screenshot
 ###Soal 1
+
 ![image](https://github.com/lieur-euy/Calculator-and-Todo-List-Native-PHP/assets/57533243/e995d306-633e-408e-8456-3b1a7dbf653f)
+
 ###Soal 2
-![Screenshot 2024-03-14 225055](https://github.com/lieur-euy/Calculator-and-Todo-List-Native-PHP/assets/57533243/2d85f891-a3d6-4157-9233-2c860041d6d3)
-![Screenshot 2024-03-14 224733](https://github.com/lieur-euy/Calculator-and-Todo-List-Native-PHP/assets/57533243/724c8d22-b261-4459-acdd-a6d5f245fada)
+
+
+![Screenshot 2024-03-14 224733](https://github.com/lieur-euy/Calculator-and-Todo-List-Native-PHP/assets/57533243/9de027e1-9092-44c2-abd1-4c02bcd86819)
+
+![Screenshot 2024-03-14 225055](https://github.com/lieur-euy/Calculator-and-Todo-List-Native-PHP/assets/57533243/d1f441d8-d17c-4ce9-a1bb-98c93e9e020e)
+
+
+
