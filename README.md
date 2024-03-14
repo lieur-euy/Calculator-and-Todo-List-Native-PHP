@@ -16,7 +16,7 @@ go to programiz.com and Copy Paste Code
 ### How to Run app
 1. Install XAMPP
 2. Start Apache and My SQL
-3. Clone Repository to C:\xampp\htdocs
+3. Clone Repository to C:\xampp\htdocs or your file htdocs
 ```
 git clone https://github.com/lieur-euy/Calculator-and-Todo-List-Native-PHP
 ```
