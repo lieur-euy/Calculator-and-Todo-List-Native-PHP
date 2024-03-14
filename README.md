@@ -7,6 +7,7 @@ terminal
 php soal1.php
 ```
 or
+
 go to programiz.com and Copy Paste Code
 
 ```
