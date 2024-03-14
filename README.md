@@ -19,11 +19,11 @@ go to programiz.com and Copy Paste Code
 ```
 git clone https://github.com/lieur-euy/Calculator-and-Todo-List-Native-PHP
 ```
-terminal
+3. terminal vscode
 ```
 cd todolist 
 ```
-go to browser
+4. go to browser
 ```
 [cd todolist ](http://localhost/todolist/)http://localhost/todolist/
 ```
