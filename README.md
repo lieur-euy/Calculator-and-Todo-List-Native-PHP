@@ -24,5 +24,6 @@ git clone https://github.com/lieur-euy/Calculator-and-Todo-List-Native-PHP
 cd todolist 
 ```
 4. go to browser
+```
 [cd todolist ](http://localhost/todolist/)http://localhost/todolist/
-
+```
